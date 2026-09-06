@@ -132,8 +132,8 @@ close to 0 ms even under high workloads
 <img width="642" height="492" alt="image" src="https://github.com/user-attachments/assets/12d14bd6-b3d8-4838-b157-0e5be354b663" />
 
 
-Check "README.pdf"
-https://github.com/AthanasiosGourdomichalis/ALGORITHMS_JAVA_Programming_Assignment/blob/main/README.pdf
+Check "README.pdf":
+https://github.com/AthanasiosGourdomichalis/algorithms-java-programming-assignment/blob/main/README.pdf
 --------------------------------------------------------------------------------------------------------
 Space Complexity:
 

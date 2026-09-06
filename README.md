@@ -128,8 +128,8 @@ aggressive increase in execution time, with the second algorithm being the slowe
 the other hand, the greedy heuristic maintains near-instantaneous execution times 
 close to 0 ms even under high workloads
 --------------------------------------------------------------------------------------------------------
-Image from: https://github.com/AthanasiosGourdomichalis/ALGORITHMS_JAVA_Programming_Assignment/blob/main/algorithm_graphs.py
-Check "algorithm_graphs.py"
+<img width="642" height="492" alt="image" src="https://github.com/user-attachments/assets/12d14bd6-b3d8-4838-b157-0e5be354b663" />
+
 
 Check "README.pdf"
 https://github.com/AthanasiosGourdomichalis/ALGORITHMS_JAVA_Programming_Assignment/blob/main/README.pdf

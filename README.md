@@ -155,7 +155,7 @@ Algorithm 1 (with 𝐦𝐚𝐱(𝑾) = 𝟏.𝟎𝟓𝟎.𝟎𝟎𝟎)
 • Max Memory: 1.051.051.001 x 4 bytes = 4.204.204.004 bytes = 4,20 GB 
 Algorithm 2: (with 𝐦𝐚𝐱(𝑷total) = 𝟏.𝟓𝟎𝟎.𝟎𝟎𝟎)  
 • Matrix size: (n + 1) x (Ptotal + 1) = 1001 x 1.500.001 = 1.501.501.001 cells 
-• Max Memory: 1.501.501.001 x 4 bytes = 6.006.004.004 bytes = 6,01 GB\
+• Max Memory: 1.501.501.001 x 4 bytes = 6.006.004.004 bytes = 6,01 GB
 --------------------------------------------------------------------------------------------------------
 • Algorithm 3 (Greedy):
 

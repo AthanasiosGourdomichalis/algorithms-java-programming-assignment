@@ -1,4 +1,5 @@
-# ALGORITHMS_JAVA_Programming_Assignment
+# Algorithms java programming assignment
+
 (i) Algorithm 2 (Dynamic Programming) 
 
 We index the 𝒏 distinct food portions as 𝟏,…, 𝒏.  
